@@ -108,8 +108,8 @@ img {
     margin: 3rem auto 0;
     padding: 0.5em;
     cursor: pointer;
-    position: relative; /* 追加 */
-    display: inline-block; /* 追加 */
+    position: relative;
+    display: inline-block;
     background-color: #faebd7;
     border-radius: 8px;
   }
@@ -124,7 +124,7 @@ img {
     opacity: 0; 
     position: absolute;
     right: 9%;
-    bottom: 70%;
+    bottom: 35%;
     transform: translateX(-50%);
     white-space: nowrap;
     transition: opacity 0.3s ease;
